@@ -57,7 +57,6 @@ After configuring and publishing the field in a creation form, this is how it ap
 
 .. figure:: images/FieldDisplay.jpg
 
-   Multiple Values
-   ~~~~~~~~~~~~~~~
+Multiple Values
    Allows using multiple values in the field structure.
 .. figure:: images/MultipleValues.jpg
