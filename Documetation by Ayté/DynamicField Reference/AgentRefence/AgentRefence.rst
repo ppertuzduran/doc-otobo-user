@@ -20,8 +20,8 @@ Referenced object type
 Input mode of edit field
     Allows selecting the mode in which the field will be used:
 
-AutoComplete
-
+    AutoComplete
+    ~~~~~~~~~~~~
 .. figure:: Images/FieldConfigurationReference.jpg
 
     Autocompletes values as they match the characters used.
@@ -29,8 +29,8 @@ AutoComplete
 .. figure:: Images/FieldConfigurationReference.jpg
 
 
-Dropdown
-
+    Dropdown
+    ~~~~~~~~~
 .. figure:: Images/Dropdown_1.jpg
 
     Displays field values as a dropdown type.
@@ -38,8 +38,8 @@ Dropdown
 .. figure:: Images/Dropdown_2.jpg
 
 
-Multiselect
-
+    Multiselect
+    ~~~~~~~~~~~
 .. figure:: Images/Multiselect_1.jpg
 
     Allows selecting multiple values for the field.
