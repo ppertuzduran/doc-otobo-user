@@ -15,9 +15,11 @@ Field Configuration Reference
 .. figure:: Images/FieldConfigurationReference.jpg
 
 Referenced object type
+~~~~~~~~~~~~~~~~~~~~~~
     Displays the selected reference type.
 
 Input mode of edit field
+~~~~~~~~~~~~~~~~~~~~~~~~
     Allows selecting the mode in which the field will be used:
 
 AutoComplete
@@ -48,7 +50,7 @@ Multiselect
 
 
 Add empty value
-
+~~~~~~~~~~~~~~~
 .. figure:: Images/AddEmptyValue_1.jpg
 
     Selecting Yes in this option allows the field to be empty.
