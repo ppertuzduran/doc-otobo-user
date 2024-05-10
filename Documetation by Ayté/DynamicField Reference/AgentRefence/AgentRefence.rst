@@ -21,6 +21,7 @@ Input mode of edit field
     Allows selecting the mode in which the field will be used:
 
 AutoComplete
+
 .. figure:: Images/FieldConfigurationReference.jpg
 
     Autocompletes values as they match the characters used.
@@ -29,6 +30,7 @@ AutoComplete
 
 
 Dropdown
+
 .. figure:: Images/Dropdown_1.jpg
 
     Displays field values as a dropdown type.
@@ -37,6 +39,7 @@ Dropdown
 
 
 Multiselect
+
 .. figure:: Images/Multiselect_1.jpg
 
     Allows selecting multiple values for the field.
