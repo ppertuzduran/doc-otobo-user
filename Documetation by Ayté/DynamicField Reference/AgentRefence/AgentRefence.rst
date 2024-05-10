@@ -61,5 +61,6 @@ Add empty value
 
 
 Group of the Agents
+~~~~~~~~~~~~~~~~~~~
 .. figure:: Images/GroupAgents.jpg
     Allows selecting the group of agents to be displayed in the field.
