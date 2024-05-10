@@ -24,11 +24,11 @@ Input mode of edit field
 
 AutoComplete
 ~~~~~~~~~~~~
-.. figure:: Images/FieldConfigurationReference.jpg
+.. figure:: Images/AutoComplete_1.jpg
 
     Autocompletes values as they match the characters used.
 
-.. figure:: Images/FieldConfigurationReference.jpg
+.. figure:: Images/AutoComplete_2.jpg
 
 
 Dropdown
