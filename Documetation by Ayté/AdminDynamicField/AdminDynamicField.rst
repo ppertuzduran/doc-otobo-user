@@ -34,4 +34,6 @@ Clicking on the icon opens a screen with the same configuration as the selected 
 .. figure:: images/CloningConfiguration.png
     :alt: Dynamic clone field configuration
 
+.. note::
+    
 It is necessary to create the field with a different name than the previous field.
