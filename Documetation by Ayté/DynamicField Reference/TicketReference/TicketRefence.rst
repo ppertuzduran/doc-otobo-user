@@ -70,8 +70,9 @@ Check ReferenceFilter
 ~~~~~~~~~~~~~~~~~~~~~
     It is possible to configure filters to limit the list of tickets displayed in the field.
 .. figure:: images/ReferenceFilter.jpg
--
+
     Object attribute
+    
         Allows selecting a property of the ticket that you want to use to filter the entries displayed in the field.
 
     Matches mask attribute
