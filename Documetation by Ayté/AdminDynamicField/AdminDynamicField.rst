@@ -17,6 +17,7 @@ In this field, the values of Namespaces that have been configured appear, and yo
 Filter for Object Type
 -------------------------
 In this filtering field, the value by which the fields will be displayed according to their type is selected.
+
 .. figure:: images/ObjectType.png
    :alt: Filter field - Object type
 
@@ -24,6 +25,7 @@ In this filtering field, the value by which the fields will be displayed accordi
 Cloning of Dynamic Fields
 ---------------------------
 It is now possible to clone the configuration of dynamic fields from the "Clone" column located in the list of fields.
+
 .. figure:: images/CloningDynamicFields.png
     :alt: Dynamic Fields List
 
