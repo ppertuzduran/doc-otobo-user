@@ -5,9 +5,8 @@ Allows selecting created tickets.
 Field Configuration
 ------------------------
 
-.. figure:: Images/FieldConfiguration.jpg
+.. figure:: images/FieldConfiguration.jpg
    
-
 
 Referenced object type
 ~~~~~~~~~~~~~~~~~~~~~~
@@ -19,58 +18,58 @@ Input mode of edit field
 
 AutoComplete
 ~~~~~~~~~~~~
-.. figure:: Images/Autocomplete_1.jpg
+.. figure:: images/Autocomplete_1.jpg
 
     Autocompletes values as they match the characters used.
 
-.. figure:: Images/Autocomplete_2.jpg
+.. figure:: images/Autocomplete_2.jpg
 
 
 Dropdown
 ~~~~~~~~~
-.. figure:: Images/Dropdown_1.jpg
+.. figure:: images/Dropdown_1.jpg
 
     Displays field values as a dropdown type.
 
-.. figure:: Images/Dropdown_2.jpg
+.. figure:: images/Dropdown_2.jpg
 
 
 Multiselect
 ~~~~~~~~~~~
-.. figure:: Images/Multiselect_1.jpg
+.. figure:: images/Multiselect_1.jpg
 
     Allows selecting multiple values for the field.
 
-.. figure:: Images/Multiselect_2.jpg  
+.. figure:: images/Multiselect_2.jpg  
 
 
 Add empty value
 ~~~~~~~~~~~~~~~
-.. figure:: Images/AddEmptyValue_1.jpg
+.. figure:: images/AddEmptyValue_1.jpg
 
     Selecting Yes in this option allows the field to be empty.
-.. figure:: Images/AddEmptyValue_2.jpg
+.. figure:: images/AddEmptyValue_2.jpg
 
     Selecting No in this option does not allow the field to be empty.
-.. figure:: Images/AddEmptyValue_3.jpg
+.. figure:: images/AddEmptyValue_3.jpg
 
 
 Attribute which will be searched on autocomplete
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     To select which attribute to filter the ticket (Title or Number).
-.. figure:: Images/Attribute_1.jpg
+.. figure:: images/Attribute_1.jpg
 
 
 Attribute which will be searched on autocomplete
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     Allows selecting which values will be displayed in the list.
-.. figure:: Images/Attribute_2.jpg
+.. figure:: images/Attribute_2.jpg
 
 
 Check ReferenceFilter
 ~~~~~~~~~~~~~~~~~~~~~
     It is possible to configure filters to limit the list of tickets displayed in the field.
-.. figure:: Images/ReferenceFilter.jpg
+.. figure:: images/ReferenceFilter.jpg
 
     Object attribute
         Allows selecting a property of the ticket that you want to use to filter the entries displayed in the field.
