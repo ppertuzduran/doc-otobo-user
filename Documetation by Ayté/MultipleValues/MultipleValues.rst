@@ -1,5 +1,5 @@
 Ability for Multiple Values
-=================
+============================
 
 A new functionality has been enabled for dynamic fields that allows having multiple values of the field in the published form.
 Field Configuration
